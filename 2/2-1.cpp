@@ -39,7 +39,6 @@ struct submarine
             break;
         }
         }
-        printf("x: %i, y: %i, aim: %i\n", x, y, aim);
     }
 };
 
